@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋🏾 Welcome to My Portfolio
+Hi, I'm Yusra – welcome to my GitHub.
 
-<!--
-**Yusraabukar/YusraAbukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a First-Class BSc (Hons) in Software Engineering for Business from UWE Bristol, where I achieved a First-Class grade for my dissertation project.
+I am currently studying for an MSc in Data Science at UWE Bristol, expanding my expertise in programming, data science, business intelligence, and machine learning.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 First-Class BSc (Hons) in Software Engineering for Business, UWE Bristol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently completing MSc in Data Science, UWE Bristol
+
+🛠️ Strong foundation in software development, systems design, and database management
+
+📈 Developing skills in machine learning, business intelligence, and predictive analytics
+
+🤝🏾 Focused on building real-world, data-driven solutions
+
+🛠️ Skills
+Undergraduate:
+Software development, web development, database systems, project management, professional practice
+
+Postgraduate (In Progress):
+Data science, Python programming, statistical analysis, business intelligence, machine learning
+
+📂 Featured Projects
+📄 Dissertation Final Project: Family Medical History within Primary Care
+
+Achieved a First-Class grade for this project.
+
+Investigated the role of family medical history in enhancing primary care services.
+
+Developed a system to manage and analyse family medical history data.
+
+Implemented structured data visualisation using JSON-LD.
+
+(More projects will be added soon.)
+
+📫 Get in Touch
+
+LinkedIn: https://www.linkedin.com/in/yusraabukar/
