@@ -1,5 +1,5 @@
 ## 👋🏾 Welcome to My Portfolio
-Hi, I'm Yusra – welcome to my GitHub.
+Hi, I'm Yusra, welcome to my GitHub.
 
 I hold a BSc (Hons) in Software Engineering for Business from UWE Bristol.
 I am currently studying for an MSc in Data Science at UWE Bristol, expanding my expertise in programming, data science, business intelligence, and machine learning.
